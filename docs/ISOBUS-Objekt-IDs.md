@@ -28,7 +28,7 @@ die Festlegung in dieser Tabelle kann man also als Good Practice bezeichnen.
 | InputList | 10000 | InputList\_%ld | 10 | [ID 10 – Input list – ISO 11783-6 – B.8.5](ID-10---Input-list---ISO-11783-6---B.8.5) |
 | OutputString | 11000 | OutputString\_%ld | 11 | [ID 11 – Output string – ISO 11783-6 – B.9.2](ID-11---Output-string---ISO-11783-6---B.9.2) |
 | OutputNumber | 12000 | OutputNumber\_%ld | 12 | [ID 12 – Output number – ISO 11783-6 – B.9.3](ID-12---Output-number---ISO-11783-6---B.9.3) |
-| OutputList | 37000 | OutputList\_%ld | 37 | [I](I) |
+| OutputList | 37000 | OutputList\_%ld | 37 | [ID 37 – Output list – ISO 11783-6 – B.9.4](ID-37---Output-list---ISO-11783-6---B.9.4) |
 | Line | 13000 | Line\_%ld | 13 | [ID 13 – Output line – ISO 11783-6 – B.10.2](ID-13---Output-line---ISO-11783-6---B.10.2) |
 | Rectangle | 14000 | Rectangle\_%ld | 14 | [ID 14 – Output rectangle – ISO 11783-6 – B.10.3](ID-14---Output-rectangle---ISO-11783-6---B.10.3) |
 | Ellipse | 15000 | Ellipse\_%ld | 15 | [ID 15 – Output ellipse – ISO 11783-6 – B.10.4](ID-15---Output-ellipse---ISO-11783-6---B.10.4) |
@@ -49,14 +49,14 @@ die Festlegung in dieser Tabelle kann man also als Good Practice bezeichnen.
 | Macro | 28000 | Macro\_%ld | 28 | [ID 28 – Macro – ISO 11783-6 – B.16](ID-28-–-Macro-–-ISO-11783-6-–-B.16) |
 | AuxFunction2 | 31000 | AuxFunction2\_%ld | 31 | [I](I) |
 | AuxInput2 | 32000 | AuxInput2\_%ld | 32 | [I](I) |
-| AuxObjectPointer | 33000 | AuxObjectPointer\_%ld | 33 | [I](I) |
-| ColorMap | 39000 | ColorMap\_%ld | 39 | [I](I) |
+| AuxObjectPointer | 33000 | AuxObjectPointer\_%ld | 33 | [ID 33 – Auxiliary Object Pointer – 11783-6 – J.4.7](ID-33---Auxiliary-Object-Pointer---ISO-11783-6---J.4.7) |
+| ColorMap | 39000 | ColorMap\_%ld | 39 | [ID 39 – Color Map – ISO 11783-6 - B.17](ID-39---Color-Map---ISO-11783-6---B.17) |
 | WindowMask | 34000 | WindowMask\_%ld | 34 | [I](I) |
 | ObjectLabelReferenceList | 40000 | ObjectLabelReferenceList\_%ld | 40 | [I](I) |
 | ExternalObjectDefinition | 41000 | ExternalObjectDefinition\_%ld | 41 | [I](I) |
 | ExternalReferenceName | 42000 | ExternalReferenceName\_%ld | 42 | [I](I) |
-| ExternalObjectPointer | 43000 | ExternalObjectPointer\_%ld | 43 | [I](I) |
-| Animation | 44000 | Animation\_%ld | 44 | [I](I) |
+| ExternalObjectPointer | 43000 | ExternalObjectPointer\_%ld | 43 | [ID 43 – External object pointer – ISO 11783-6 – B.24](ID-43---External-object-pointer---ISO-11783-6---B.24) |
+| Animation | 44000 | Animation\_%ld | 44 | [ID 44 – Animation – ISO 11783-6 – B.25](ID-44---Animation---ISO-11783-6---B.25.md) |
 | ScaledGraphic | 48000 | ScaledGraphic\_%ld | 48 | [I](I) |
 | GraphicData | 46000 | GraphicData\_%ld | 46 | [I](I) |
 | ColorPalette | 45000 | ColorPalette\_%ld | 45 | [I](I) |
